@@ -1,0 +1,21 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  outline: 0;
+}
+.container {
+  max-width: 80%;
+  margin: 0 auto;
+}
+.content .btn {
+  background: green;
+  color: #fff;
+  padding: 5px 15px;
+  border: 0;
+}
+
+.content p {
+  line-height: 1.2;
+  color: green;
+}
